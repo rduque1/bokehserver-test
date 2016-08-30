@@ -123,6 +123,7 @@ success_msg("Great work!")
 --- type:BokehServerExercise lang:python xp:100 skills:1 
 ## Bokeh Server
 
+
 Blabla bokeh Server
 
 *** =instructions
